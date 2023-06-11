@@ -1,8 +1,12 @@
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.deps.json
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\CompanyEmployees.Presentation.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Service.Contracts.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Entities.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.csproj.AssemblyReference.cache
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.AssemblyInfoInputs.cache
@@ -13,5 +17,3 @@ C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Co
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\refint\CompanyEmployees.Presentation.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\CompanyEmployees.Presentation.pdb
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\obj\Debug\net6.0\ref\CompanyEmployees.Presentation.dll
-C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.dll
-C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees.Presentation\bin\Debug\net6.0\Shared.pdb

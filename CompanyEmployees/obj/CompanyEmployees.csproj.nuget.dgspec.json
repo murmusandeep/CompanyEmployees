@@ -44,9 +44,17 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.JsonPatch": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
             "Microsoft.AspNetCore.Mvc.Core": {
               "target": "Package",
               "version": "[2.2.5, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             }
           },
           "imports": [
@@ -122,6 +130,10 @@
             "AutoMapper.Extensions.Microsoft.DependencyInjection": {
               "target": "Package",
               "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.16, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -428,6 +440,9 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
               "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj": {
                 "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj"
               }
