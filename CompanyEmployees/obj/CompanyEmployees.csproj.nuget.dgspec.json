@@ -31,6 +31,15 @@
             "projectReferences": {
               "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
                 "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+              },
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj"
+              },
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              },
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj"
               }
             }
           }
@@ -45,6 +54,12 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
             "NLog.Extensions.Logging": {
               "target": "Package",
               "version": "[5.3.2, )"
@@ -81,6 +96,61 @@
         "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -173,6 +243,201 @@
               "version": "[5.3.2, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj",
+        "projectName": "Repository",
+        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "projectName": "Service.Contracts",
+        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj",
+        "projectName": "Service",
+        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              },
+              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
           "imports": [
             "net461",
             "net462",
