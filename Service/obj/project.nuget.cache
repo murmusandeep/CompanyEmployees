@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "JMPtP9nZUW++Issb21uJ8zjaEkhOJVWD1lVX9JyZ1ngepvg4BFa1QFRBg3V273CPf0FJfbIVDugVfHwP9m4K1A==",
+  "dgSpecHash": "h/V5Hihb+8PloKCt1xVr7zowiLjqC37IyriHfQ26Lw597OFlTOUFWH9k3e6Ns0U4aL/rbJDpJ2zxkaHoP+5B3w==",
   "success": true,
   "projectFilePath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

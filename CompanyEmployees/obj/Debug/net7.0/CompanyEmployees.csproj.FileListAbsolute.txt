@@ -80,3 +80,14 @@ C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Co
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.pdb
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.genruntimeconfig.cache
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\ref\CompanyEmployees.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\CompanyEmployees.Presentation.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.Contracts.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Service.pdb
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\Shared.pdb
