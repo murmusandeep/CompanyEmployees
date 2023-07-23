@@ -15,3 +15,5 @@ C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Re
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.pdb
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
