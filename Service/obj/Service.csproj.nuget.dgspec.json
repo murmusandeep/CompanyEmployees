@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj": {}
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj",
-        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\obj\\",
+        "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj",
+        "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj"
               }
             }
           }
@@ -59,21 +59,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj",
-        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\obj\\",
+        "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -114,21 +114,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
         "projectName": "Service.Contracts",
-        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
-        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\obj\\",
+        "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj",
+        "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -142,11 +142,11 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Entities\\Entities.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj"
               },
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -176,21 +176,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj": {
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj",
+        "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service\\obj\\",
+        "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -204,14 +204,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj"
               },
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
               },
-              "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj": {
-                "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj"
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -247,21 +247,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj": {
+    "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj",
+        "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj",
         "projectName": "Shared",
-        "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\Shared.csproj",
-        "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Shared\\obj\\",
+        "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj",
+        "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -302,7 +302,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

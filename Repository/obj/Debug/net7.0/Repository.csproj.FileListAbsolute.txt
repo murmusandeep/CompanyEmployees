@@ -17,3 +17,22 @@ C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Re
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Contracts.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\bin\Debug\net7.0\Entities.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.csproj.CopyComplete
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Repository\obj\Debug\net7.0\ref\Repository.dll
