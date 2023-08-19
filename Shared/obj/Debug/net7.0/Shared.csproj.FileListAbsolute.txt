@@ -10,3 +10,14 @@ C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Sh
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Shared\obj\Debug\net7.0\refint\Shared.dll
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.pdb
 C:\Users\Sandeep Murmu\Desktop\Ultimate ASP.NET Core Web API\CompanyEmployees\Shared\obj\Debug\net7.0\ref\Shared.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\bin\Debug\net7.0\Shared.deps.json
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\bin\Debug\net7.0\Shared.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\bin\Debug\net7.0\Shared.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.AssemblyInfoInputs.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.AssemblyInfo.cs
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.csproj.CoreCompileInputs.cache
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\refint\Shared.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\Shared.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\Shared\obj\Debug\net7.0\ref\Shared.dll

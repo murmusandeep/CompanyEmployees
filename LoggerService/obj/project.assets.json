@@ -523,19 +523,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\": {}
+    "C:\\Users\\murmu\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
-      "packagesPath": "C:\\Users\\Sandeep Murmu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\LoggerService\\obj\\",
+      "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "packagesPath": "C:\\Users\\murmu\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Sandeep Murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\murmu\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -549,8 +549,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\Sandeep Murmu\\Desktop\\Ultimate ASP.NET Core Web API\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Contracts\\Contracts.csproj"
             }
           }
         }
@@ -586,7 +586,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }
