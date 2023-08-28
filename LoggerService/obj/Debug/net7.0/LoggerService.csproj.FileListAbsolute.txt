@@ -20,8 +20,10 @@ C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\De
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\LoggerService.pdb
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.dll
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Shared.dll
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Contracts.pdb
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Entities.pdb
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Shared.pdb
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.csproj.AssemblyReference.cache
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.AssemblyInfoInputs.cache
@@ -32,5 +34,3 @@ C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\De
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\refint\LoggerService.dll
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\LoggerService.pdb
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\obj\Debug\net7.0\ref\LoggerService.dll
-C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Shared.dll
-C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\LoggerService\bin\Debug\net7.0\Shared.pdb
