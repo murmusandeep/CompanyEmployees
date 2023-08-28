@@ -197,6 +197,9 @@
             "projectReferences": {
               "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }
@@ -379,6 +382,9 @@
               },
               "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj": {
                 "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Entities\\Entities.csproj"
+              },
+              "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj": {
+                "projectPath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Learn Code\\CompanyEmployees\\Shared\\Shared.csproj"
               }
             }
           }

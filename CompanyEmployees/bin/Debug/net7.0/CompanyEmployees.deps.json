@@ -857,7 +857,8 @@
       },
       "Contracts/1.0.0": {
         "dependencies": {
-          "Entities": "1.0.0"
+          "Entities": "1.0.0",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Contracts.dll": {}
@@ -882,7 +883,8 @@
           "Contracts": "1.0.0",
           "Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "7.0.9",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9"
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.9",
+          "Shared": "1.0.0"
         },
         "runtime": {
           "Repository.dll": {}
