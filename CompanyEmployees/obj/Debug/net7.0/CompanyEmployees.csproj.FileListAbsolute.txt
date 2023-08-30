@@ -192,3 +192,4 @@ C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\CompanyEmployees\obj
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.pdb
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\CompanyEmployees.genruntimeconfig.cache
 C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\CompanyEmployees\obj\Debug\net7.0\ref\CompanyEmployees.dll
+C:\Users\murmu\OneDrive\Desktop\Learn Code\CompanyEmployees\CompanyEmployees\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
