@@ -1,8 +1,18 @@
 {
   "version": 2,
-  "dgSpecHash": "0n2PFeN1pnQPQB4BvJZu2PrjdhyQjdV1mr1nlW8wlBjhtZUZ4sbDhqiUx/dgiaMhamHDmK6Mtmd9PF5A5y6fiQ==",
+  "dgSpecHash": "26j5yDKdBisvUxa4kdxFKQaF9BOwWOoQfsrWy09RXM+XJL2QlXdpRvPVY4odJ/ECzLBusaVqJlOlIv4UszOwTQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\murmu\\OneDrive\\Desktop\\Again\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.logging\\8.0.0\\microsoft.extensions.logging.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\nlog\\5.3.4\\nlog.5.3.4.nupkg.sha512",
+    "C:\\Users\\murmu\\.nuget\\packages\\nlog.extensions.logging\\5.3.15\\nlog.extensions.logging.5.3.15.nupkg.sha512"
+  ],
   "logs": []
 }

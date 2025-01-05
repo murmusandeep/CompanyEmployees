@@ -24,3 +24,13 @@ C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debu
 C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.pdb
 C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.genruntimeconfig.cache
 C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\ref\CompanyEmployees.dll
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\nlog.config
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\NLog.dll
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\NLog.Extensions.Logging.dll
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\Contracts.dll
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\LoggerService.dll
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\LoggerService.pdb
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\bin\Debug\net8.0\Contracts.pdb
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.csproj.AssemblyReference.cache
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.sourcelink.json
+C:\Users\murmu\OneDrive\Desktop\Again\CompanyEmployees\CompanyEmployees\obj\Debug\net8.0\CompanyEmployees.csproj.CopyComplete
