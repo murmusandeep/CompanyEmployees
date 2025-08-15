@@ -1,6 +1,10 @@
-﻿namespace Contracts.Interfaces
+﻿using Entities.Models;
+
+namespace Contracts.Interfaces
 {
     public interface IEmployeeRepository
     {
+        IEnumerable<Employee> GetEmployees(Guid companyId, bool trackChanges);
+        Employee GetEmployee(Guid companyId, Guid id, bool trackChanges);
     }
 }
