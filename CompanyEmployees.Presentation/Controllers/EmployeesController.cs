@@ -1,4 +1,5 @@
-﻿using Contracts.Interfaces;
+﻿using CompanyEmployees.Presentation.ActionFilters;
+using Contracts.Interfaces;
 using Microsoft.AspNetCore.JsonPatch;
 using Microsoft.AspNetCore.Mvc;
 using Shared.DataTransferObjects;
@@ -27,17 +28,10 @@ namespace CompanyEmployees.Presentation.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> CreateEmployeeForCompany
-            (Guid companyId, [FromBody] EmployeeForCreationDto employee)
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
+        public async Task<IActionResult> CreateEmployeeForCompany(Guid companyId, [FromBody] EmployeeForCreationDto employee)
         {
-            if (employee is null)
-                return BadRequest("EmployeeForCreationDto object is null");
-
-            if (!ModelState.IsValid)
-                return UnprocessableEntity(ModelState);
-
             var employeeToReturn = await _service.EmployeeService.CreateEmployeeForCompanyAsync(companyId, employee, trackChanges: false);
-
             return CreatedAtRoute("GetEmployeeForCompany", new { companyId, id = employeeToReturn.Id }, employeeToReturn);
         }
 
@@ -49,23 +43,15 @@ namespace CompanyEmployees.Presentation.Controllers
         }
 
         [HttpPut("{id:guid}")]
-        public async Task<IActionResult> UpdateEmployeeForCompany(Guid companyId, Guid id,
-            [FromBody] EmployeeForUpdateDto employee)
+        [ServiceFilter(typeof(ValidationFilterAttribute))]
+        public async Task<IActionResult> UpdateEmployeeForCompany(Guid companyId, Guid id, [FromBody] EmployeeForUpdateDto employee)
         {
-            if (employee is null)
-                return BadRequest("EmployeeForUpdateDto object is null");
-
-            if (!ModelState.IsValid)
-                return UnprocessableEntity(ModelState);
-
             await _service.EmployeeService.UpdateEmployeeForCompanyAsync(companyId, id, employee, compTrackChanges: false, empTrackChanges: true);
-
             return NoContent();
         }
 
         [HttpPatch("{id:guid}")]
-        public async Task<IActionResult> PartiallyUpdateEmployeeForCompany(Guid companyId, Guid id,
-            [FromBody] JsonPatchDocument<EmployeeForUpdateDto> patchDoc)
+        public async Task<IActionResult> PartiallyUpdateEmployeeForCompany(Guid companyId, Guid id, [FromBody] JsonPatchDocument<EmployeeForUpdateDto> patchDoc)
         {
             if (patchDoc is null)
                 return BadRequest("patchDoc object sent from client is null.");
