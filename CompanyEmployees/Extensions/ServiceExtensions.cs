@@ -1,4 +1,6 @@
-﻿using Contracts.Interfaces;
+﻿using Asp.Versioning;
+using CompanyEmployees.Presentation.Controllers;
+using Contracts.Interfaces;
 using LoggerService;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Formatters;
@@ -56,6 +58,25 @@ namespace CompanyEmployees.Extensions
                     xmlOutputFormatter.SupportedMediaTypes.Add("application/vnd.codemaze.hateoas+xml");
                     xmlOutputFormatter.SupportedMediaTypes.Add("application/vnd.codemaze.apiroot+xml");
                 }
+            });
+        }
+
+        public static void ConfigureVersioning(this IServiceCollection services)
+        {
+            services.AddApiVersioning(opt =>
+            {
+                opt.ReportApiVersions = true;
+                opt.AssumeDefaultVersionWhenUnspecified = true;
+                opt.DefaultApiVersion = new ApiVersion(1, 0);
+                opt.ApiVersionReader = new HeaderApiVersionReader("api-version"); // Headers : (Key : api-version :: Value : 2.0)
+                //opt.ApiVersionReader = new QueryStringApiVersionReader("api-version"); Query Params : api-version=2.0
+            })
+            .AddMvc(opt =>
+            {
+                opt.Conventions.Controller<CompaniesController>()
+                .HasApiVersion(new ApiVersion(1, 0));
+                opt.Conventions.Controller<CompaniesV2Controller>()
+                .HasDeprecatedApiVersion(new ApiVersion(2, 0));
             });
         }
     }
