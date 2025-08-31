@@ -3,6 +3,7 @@ using CompanyEmployees.Presentation.ModelBinders;
 using Contracts.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OutputCaching;
+using Microsoft.AspNetCore.RateLimiting;
 using Shared.DataTransferObjects;
 
 namespace CompanyEmployees.Presentation.Controllers
@@ -17,6 +18,8 @@ namespace CompanyEmployees.Presentation.Controllers
         public CompaniesController(IServiceManager service) => _service = service;
 
         [HttpGet(Name = "GetCompanies")]
+        [EnableRateLimiting("SpecificPolicy")]
+        //[DisableRateLimiting]
         public async Task<IActionResult> GetCompanies()
         {
             var companies = await _service.CompanyService.GetAllCompaniesAsync(trackChanges: false);
