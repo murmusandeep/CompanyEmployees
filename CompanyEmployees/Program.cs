@@ -36,6 +36,9 @@ builder.Services.ConfigureVersioning();
 //builder.Services.ConfigureResponseCaching();
 builder.Services.ConfigureOutputCaching();
 builder.Services.ConfigureRateLimitingOptions();
+builder.Services.AddAuthentication();
+builder.Services.ConfigureIdentity();
+builder.Services.ConfigureJWT(builder.Configuration);
 builder.Services.AddControllers(config =>
 {
     config.RespectBrowserAcceptHeader = true;
@@ -64,6 +67,7 @@ app.UseRateLimiter();
 app.UseCors("CorsPolicy");
 //app.UseResponseCaching();
 app.UseOutputCache();
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 
